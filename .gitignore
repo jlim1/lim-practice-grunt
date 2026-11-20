@@ -1,0 +1,13 @@
+node_modules/
+
+# Local tools and credentials
+.env*
+*.pem
+*.key
+*.jks
+*.keystore
+__pycache__/
+.venv/
+node_modules/
+*.class
+local.properties
